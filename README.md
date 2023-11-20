@@ -1,5 +1,7 @@
 # AI-Powered 3D Website Using React | Three JS
 
+![3D Web](https://i.imgur.com/z5Euzz6.png)
+
 ## Introduction
 Many large corporations already use 3D graphics to showcase their products. This is ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
  
